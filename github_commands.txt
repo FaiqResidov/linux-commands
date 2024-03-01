@@ -1,0 +1,7 @@
+Git clone -- git clone + repository link
+Git status
+Git add
+Git commit -- git commit -m "commit message"
+Git push -- git push -u origin <branch_name>
+Git pull -- 
+git reset -- sage e getmis fayli geri cekir

@@ -1,0 +1,13 @@
+cd -- change directory, cd + folder name - folderler arasi kecid ucun istifade olunur
+cd .. folderden geri qayitmaq 
+ls -- list of the applications(apps), oldugumuz folderdeki fayllari ve folderleri cap edir
+ls -l list kimi qaytarir fayllari
+ls -lh fayllarin hecmini bitler seklinde gostermir basa duseceyimiz sekilde gosterir 
+pwd -- print working directory, oldugumuz directoryani cap edir
+mkdir -- mkdir + folder name,  make directory, folder yaratmaq ucun istifade olunur
+mkdir Test1 Test2 Test3 yazsaq gedib 3 dene folder yaradacaq 
+rmdir -- rmdir + folder name, remove directory - yaratdiqimiz folderi silmek ucun istifade olunur
+touch -- touch + file name, olduqumuz folderin icinde fayl yaratmaq ucun istifade olunur
+rm -- rm + file name, yaratdiqimiz fayli silmek ucun istifade olunur 
+cat -- cat + file name, faylin icini oxumaq ucun istifade edirik
+nano -- nano + file name, faylin icinde deyisiklik etmek ucun istifade edirik
